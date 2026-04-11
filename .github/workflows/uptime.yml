@@ -21,7 +21,6 @@ jobs:
             "https://mini.horeca-ai.ru|HoReCa Mini"
             "https://aiassistpro.ru|AI Assist Pro"
             "https://seller.aiassistpro.ru|Seller Assistant"
-            "https://pay.aiassistpro.ru|Payment Hub"
             "https://alexsoll.ru|n8n"
             "https://status.horeca-ai.ru|Uptime Kuma"
           )
